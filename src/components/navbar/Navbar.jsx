@@ -11,7 +11,7 @@ import toogle_dark  from "../../assets/day.png"
 const Navbar = () => {
   return (
     <div className='navbar'>
-      <img src={logo_light} alt='' className='' />
+      <img src={logo_light} alt='' className='logo' />
       <ul>
       <li>Home</li>
       <li>Products</li>
